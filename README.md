@@ -22,12 +22,12 @@ By automating these tasks, the project aims to save significant time and effort 
 This project simplifies the management of Google Groups by automating common tasks. It uses LGL reports as the primary data source to ensure accuracy. Through a user-friendly console interface, the tool efficiently synchronises groups, reducing manual effort.
 
 ## Project Results
-Adding members to groups.
-Removing members from groups.
-Modifying member roles within groups.
-Validating membership status based on email addresses.
-Efficiently removing members from all groups.
-Listing groups in the organisation linked to specific individuals.
+### Adding members to groups.
+### Removing members from groups.
+### Modifying member roles within groups.
+### Validating membership status based on email addresses.
+### Efficiently removing members from all groups.
+### Listing groups in the organisation linked to specific individuals.
 
 |Commits| |Description|
 |-------| |------|
