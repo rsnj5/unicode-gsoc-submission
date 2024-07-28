@@ -22,17 +22,24 @@ By automating these tasks, the project aims to save significant time and effort 
 This project simplifies the management of Google Groups by automating common tasks. It uses LGL reports as the primary data source to ensure accuracy. Through a user-friendly console interface, the tool efficiently synchronises groups, reducing manual effort.
 
 ## Project Results
-### Adding members to groups.
-### Removing members from groups.
-### Modifying member roles within groups.
-### Validating membership status based on email addresses.
-### Efficiently removing members from all groups.
-### Listing groups in the organisation linked to specific individuals.
+1. Adding members to groups.
+2. Removing members from groups.
+3. Modifying member roles within groups.
+4. Validating membership status based on email addresses.
+5. Efficiently removing members from all groups.
+6. Listing groups in the organisation linked to specific individuals.
+   
+## Contributions
 
 |Commits| |Description|
-|-------| |------|
+|-------| |-----------|
 |[Commits:5d4f1f7](5d4f1f765b5add0d3745337c228264f3092c94e9)| |Added script for managing group members using Google Admin SDK|
 |[Commits:3383f08](3383f08f6c5afb20dd28153c7a4fc3015b2d0631)| |Added .gitignore file|
+|[Commits:2abc7c0](2abc7c086f63c6c3103a1a7e24941748362d298e)| |Added scripts|
+|[Commits:6da428e](6da428e5f7953374b904b45137739783bc4781ac)| |updated files|
+|[Commits:e50a471](e50a471436752d2be8d8b7708d7ecbff45b94b9d)| |updated files|
+|[Commits:7eddb48](7eddb48ea21278ee30cf7bcc3404fc7062e4ca65)| |Added unittest script|
+|[Commits:70fd514](70fd51464419d48f7f41671dbaf5145871d7824b)| |updated Readme|
 
 
 
