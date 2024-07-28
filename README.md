@@ -47,3 +47,12 @@ This project simplifies the management of Google Groups by automating common tas
 | [e50a471](https://github.com/unicode-org/kr-tools/commit/e50a471436752d2be8d8b7708d7ecbff45b94b9d) | Updated files |
 | [7eddb48](https://github.com/unicode-org/kr-tools/commit/7eddb48ea21278ee30cf7bcc3404fc7062e4ca65) | Added unittest script |
 | [70fd514](https://github.com/unicode-org/kr-tools/commit/70fd51464419d48f7f41671dbaf5145871d7824b) | Updated Readme |
+
+## Concluding remarks
+
+I have completed almost all the goals we decided on during the community bonding period. I thoroughly enjoyed the work and would be thrilled to keep contributing. I tried getting into open source a few times before and hit a dead end. Participating in GSoC gave me the right confidence and skill to make meaningful contributions. Now, instead of feeling overwhelmed by a big codebase, I have the skills to handle it.
+
+
+## Acknowledgments
+
+Thanks to Google, Unicode, and my mentor for this opportunity. I will be forever indebted to my mentor and Unicode community for their constant support and guidance.
