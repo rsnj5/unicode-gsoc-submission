@@ -7,7 +7,7 @@
 
 **Project Size:** Small (~60 hours)  
 **Project Repository:** [project-submission](https://github.com/unicode-org/kr-tools/tree/main/lgl-group-tools)  
-**Project Proposal:** [Proposal](https://docs.google.com/document/d/1LiKS_HvtqojQk8yF4pxjq6P25oEPfA9HB6yUijPLFG0/edit)
+**Project Proposal:** [Proposal](https://docs.google.com/document/d/1cNtDYlnaWF_yIpUVlObSJfvxk9uik1TFT7dyax8H0A4)
 
 ## Project Abstract
 
