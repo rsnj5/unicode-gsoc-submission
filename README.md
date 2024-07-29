@@ -41,12 +41,15 @@ This project simplifies the management of Google Groups by automating common tas
 | Commit | Description |
 |--------|-------------|
 | [5d4f1f7](https://github.com/unicode-org/kr-tools/commit/5d4f1f765b5add0d3745337c228264f3092c94e9) | Added script for managing group members using Google Admin SDK |
-| [3383f08](https://github.com/unicode-org/kr-tools/commit/3383f08f6c5afb20dd28153c7a4fc3015b2d0631) | Added .gitignore file |
-| [2abc7c0](https://github.com/unicode-org/kr-tools/commit/2abc7c086f63c6c3103a1a7e24941748362d298e) | Added scripts for adding members to group, Removing members from group,modifying member roles within groups,validating membership status.|
-| [6da428e](https://github.com/unicode-org/kr-tools/commit/6da428e5f7953374b904b45137739783bc4781ac) | Updated files |
-| [e50a471](https://github.com/unicode-org/kr-tools/commit/e50a471436752d2be8d8b7708d7ecbff45b94b9d) | Updated files |
-| [7eddb48](https://github.com/unicode-org/kr-tools/commit/7eddb48ea21278ee30cf7bcc3404fc7062e4ca65) | Added unittest script |
-| [70fd514](https://github.com/unicode-org/kr-tools/commit/70fd51464419d48f7f41671dbaf5145871d7824b) | Updated Readme |
+| [3383f08](https://github.com/unicode-org/kr-tools/commit/3383f08f6c5afb20dd28153c7a4fc3015b2d0631) | Added a .gitignore file |
+| [2abc7c0](https://github.com/unicode-org/kr-tools/commit/2abc7c086f63c6c3103a1a7e24941748362d298e) | Added scripts for adding members to group, Removing members from group,modifying member roles within groups,and validating membership status.|
+| [d4c9218](https://github.com/unicode-org/kr-tools/commit/d4c92180c398216ce48f94e46add686011c169e6) | Added the set_no_mail.py script |
+| [6da428e](https://github.com/unicode-org/kr-tools/commit/6da428e5f7953374b904b45137739783bc4781ac) | Added the listgroups.py script |
+| [b4b4bc5](https://github.com/unicode-org/kr-tools/commit/b4b4bc5f66bc19a9fc359d407da9e10825b235e1) | Added the group_info.py script |
+| [96dca4e](https://github.com/unicode-org/kr-tools/commit/96dca4e30d8b78fca9628a4e9d1b4e75fc206bf8) |added input as a command line argument|    
+| [384fb00](https://github.com/unicode-org/kr-tools/commit/384fb006fb9b18837de4ba6d3f5dd7cb63c46beb) | Updated Readme to include all the requirements and setup process|
+| [7eddb48](https://github.com/unicode-org/kr-tools/commit/7eddb48ea21278ee30cf7bcc3404fc7062e4ca65) | Added a unittest script |
+| [70fd514](https://github.com/unicode-org/kr-tools/commit/70fd51464419d48f7f41671dbaf5145871d7824b) | Updated the Readme |
 
 ## Concluding remarks
 
