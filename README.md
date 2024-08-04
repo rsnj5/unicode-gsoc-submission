@@ -6,7 +6,7 @@
 **Mentor:** Rick McGowan  
 
 **Project Size:** Small (~60 hours)  
-**Project Repository:** [project-submission](https://drive.google.com/drive/folders/1D9iQ8bneah8-AKvFYExx0bhrxoWfSHl0?usp=drive_link)  
+**Project link:** [project-submission](https://drive.google.com/drive/folders/1D9iQ8bneah8-AKvFYExx0bhrxoWfSHl0?usp=drive_link)  
 **Project Proposal:** [Proposal](https://docs.google.com/document/d/1cNtDYlnaWF_yIpUVlObSJfvxk9uik1TFT7dyax8H0A4)
 
 ## Project Abstract
